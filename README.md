@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/Crop Project Banner iamge.png" alt="Project Banner" width="100%">
+</p>
+
 # 🌾 Prediction of Agriculture Crop Production in India  
 ### Machine Learning Project | Internship – upSkill Campus & UniConverge Technologies Pvt. Ltd. (UCT)
 
